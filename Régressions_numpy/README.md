@@ -1,1 +1,8 @@
+Cette année, en maths expertes, nous avons abordé les matrices 🧮 ce qui m'a fait grandement progressé dans l'uilisation de numpy.
+Ainsi, avec du travail, j'ai réussi à coder des régressions linéraires, polynomiales et à variables multiples. 
 
+Le principe est globalement le même. Nous disposons d'un dataset avec une ou plusieurs features. 
+On introduit un vecteur thêta qui définit notre premier modèle.
+Par la suite, on calcule l'erreur quadratic moyenne de notre modèle avec la focntion coût puis on applique une descente de gradient.
+
+Ainsi, on obtient un vecteur thêta final qui nous donne les meilleurs paramètres de notre modèle minimisant l'erreur entre le modèle et les données.
