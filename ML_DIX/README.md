@@ -3,4 +3,4 @@ Grossièrement, le dix représente l'activité traitée au sein des pools de liq
 
 Le but de ce projet est de développer un modèle de prédiction de la performance du S&P500 en fonction de ces deux composantes.
 
-⚠️Porjet en cours
+⚠️ Projet en cours ⚠️
