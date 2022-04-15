@@ -8,5 +8,5 @@ Grâce à Guillaume Saint-Cirgue et à sa pédagogie, je me suis initié aux dat
 A travers les livres, j'ai perfectionné ma connaissance du langage et des mathématiques nécessaire au métier de data scientist.
 
 Poussé par la curiosité, j'ai débuté l'apprentissage d'un langage compilé : le C++.
-Le langage compilé est garant d'une meilleure rapidité qui peut-être primordial dans les algorithmes de trading haute fréquen ou de modèles de pricing de produits dérivés.
+Le langage compilé est garant d'une meilleure rapidité qui peut-être primordial dans les algorithmes de trading haute fréquence ou de modèles de pricing de produits dérivés.
 En ce moment, je débute le SQL pour pouvoir traiter de plus grandes quantités de données.
