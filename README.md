@@ -7,6 +7,6 @@ Par la suite, j'ai tout de suite été attiré par l'intelligence artificielle e
 Grâce à Guillaume Saint-Cirgue et à sa pédagogie, je me suis initié aux data sciences.
 A travers les livres, j'ai perfectionné ma connaissance du langage et des mathématiques nécessaires au métier de data scientist.
 
-Poussé par la curiosité, j'ai débuté l'apprentissage d'un langage compilé : le C++.
+J'ai appris en autonome le C++.
 Le langage compilé est garant d'une meilleure rapidité qui peut-être primordiale dans les algorithmes de trading haute fréquence ou de modèles de pricing de produits dérivés.
-En ce moment, je débute le SQL.
+En avançant dans mes projets, je me suis frotté à de grandes bases de données. Ainsi, j'ai du apprendre à travailler avec elles : ce qui m'amené à l'apprentissage du C++.
