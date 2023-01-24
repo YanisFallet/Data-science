@@ -1,5 +1,4 @@
-Cette année, en maths expertes, nous avons abordé les matrices 🧮 ce qui m'a fait grandement progresser dans l'uilisation de numpy.
-Ainsi, avec du travail, j'ai réussi à coder des régressions linéraires, polynomiales et à variables multiples. 
+Avec du travail, j'ai réussi à coder des régressions linéraires, polynomiales et à variables multiples. 
 
 Le principe est globalement le même. Nous disposons d'un dataset avec une ou plusieurs features. 
 On introduit un vecteur thêta qui définit notre premier modèle.
