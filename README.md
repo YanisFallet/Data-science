@@ -9,4 +9,4 @@ A travers les livres, j'ai perfectionné ma connaissance du langage et des math�
 
 J'ai appris en autonome le C++.
 Le langage compilé est garant d'une meilleure rapidité qui peut-être primordiale dans les algorithmes de trading haute fréquence ou de modèles de pricing de produits dérivés.
-En avançant dans mes projets, je me suis frotté à de grandes bases de données. Ainsi, j'ai du apprendre à travailler avec elles : ce qui m'amené à l'apprentissage du C++.
+En avançant dans mes projets, je me suis frotté à de grandes bases de données. Ainsi, j'ai du apprendre à travailler avec elles : ce qui m'amené à l'apprentissage du SQL.
